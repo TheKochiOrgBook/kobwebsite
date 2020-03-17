@@ -1,0 +1,7 @@
+Files: *
+Copyright: 2013-2016 Blackrock Digital LLC.
+License: MIT (please see usr/local/cpanel/3rdparty/share/common-licenses/MIT)
+Source: http://startbootstrap.com/template-overviews/business-casual/
+
+Files: img/*.jpg
+License: Creative Commons Zero (please see /usr/local/cpanel/3rdparty/share/business/img/LICENSE)
